@@ -5,4 +5,5 @@ stuff i built from huxn webdev tutorials
 04. loading animatin  
 05. color toggle changer  
 06. creative buttons  
-07. Digital clock
+07. Digital clock  
+08. random emoji
