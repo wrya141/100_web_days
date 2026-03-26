@@ -1,9 +1,11 @@
 stuff i built from huxn webdev tutorials  
-01.Background-image  
-02. creative image hover effect  
+01. Background-image  
+02. creative loading animatin 
 03. custom scroll bar  
-04. loading animatin  
-05. color toggle changer  
-06. creative buttons  
+04. creative image hover effect
+05. creative buttons   
+06.  creative menu
+///
+06. color toggle changer  
 07. Digital clock  
 08. random emoji
