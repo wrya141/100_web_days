@@ -10,6 +10,7 @@ stuff i built from huxn webdev tutorials
 09. tooltip  
 10. accordion   
 11. scroll-bar  
+12. image bg Text 
 ///
 06. color toggle changer  
 07. Digital clock  
