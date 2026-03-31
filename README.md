@@ -4,7 +4,11 @@ stuff i built from huxn webdev tutorials
 03. custom scroll bar  
 04. creative image hover effect
 05. creative buttons   
-06.  creative menu
+06.  creative menu  
+07. creative image effect  
+08. creative cards  
+09. tooltip  
+10. accordion  
 ///
 06. color toggle changer  
 07. Digital clock  
