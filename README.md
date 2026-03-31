@@ -8,7 +8,8 @@ stuff i built from huxn webdev tutorials
 07. creative image effect  
 08. creative cards  
 09. tooltip  
-10. accordion  
+10. accordion   
+11. scroll-bar  
 ///
 06. color toggle changer  
 07. Digital clock  
