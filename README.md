@@ -12,7 +12,9 @@ stuff i built from huxn webdev tutorials
 11. scroll-bar  
 12. image bg Text  
 13. page scroll indicator. 
-14. Heart
+14. Heart. 
+15. background color changer. 
+16. auto text. 
 ///
 06. color toggle changer  
 07. Digital clock  
